@@ -1,5 +1,5 @@
 # Udacity_Cpp_Project_and_Exercise
-Practiced OOP, memory management and concurrency through completing 5 projects and numerous exercise
+Practiced OOP, memory management and concurrency in C++ through completing 5 projects and numerous exercise
 
 # Projects
 
