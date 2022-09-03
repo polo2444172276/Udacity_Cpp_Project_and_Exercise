@@ -15,6 +15,8 @@ Practiced OOP, memory management and concurrency through completing 5 projects a
 
 # Exercise
 
+1 - C++ Syntax
+
 2 - Foundations
 
 3 - Object Oriented Programming
